@@ -124,4 +124,4 @@ To get started with the development of this project, follow the steps below:
 
 We hope this project inspires and empowers users to contribute to a sustainable future by reducing their carbon footprints with the help of advanced technology.
 
-For more information, please contact [your email address].
+For more information, please contact [aimt16@hotmail.com].
