@@ -100,7 +100,7 @@ The interactive prototype can be found [here](https://cfp0.blogspot.com). It inc
 ![Resource Center Mockup](#)
 
 ### Community Mockup
-![Community Mockup](#)
+![Community Mockup](https://github.com/aimtyaem/EOInfo/blob/10959760b8be18be7f683c43a5bdf58b40f90eb8/chrome_screenshot_13%20Feb%202025%2017_49_48%20EET.png)
 
 ## Team Members
 
