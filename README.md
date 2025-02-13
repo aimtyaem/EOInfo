@@ -88,16 +88,16 @@ The interactive prototype can be found [here](https://cfp0.blogspot.com). It inc
 ![Homepage Mockup](https://github.com/aimtyaem/EOInfo/blob/4871c5b7a1382d357cbd3966987cd0fe2303429d/chrome_screenshot_13%20Feb%202025%2017_48_43%20EET.png)
 
 ### Onboarding Flow Mockup
-![Onboarding Flow Mockup](#)
+![Onboarding Flow Mockup](https://github.com/aimtyaem/EOInfo/blob/ac2963b42c25d13a57d874827f32249cc84dd5a1/chrome_screenshot_13%20Feb%202025%2017_51_23%20EET.png)
 
 ### Dashboard Mockup
-![Dashboard Mockup](#)
+![Dashboard Mockup](https://github.com/aimtyaem/EOInfo/blob/ac2963b42c25d13a57d874827f32249cc84dd5a1/chrome_screenshot_13%20Feb%202025%2017_50_27%20EET.png)
 
 ### User Profile Mockup
-![User Profile Mockup](#)
+![User Profile Mockup](https://github.com/aimtyaem/EOInfo/blob/ac2963b42c25d13a57d874827f32249cc84dd5a1/chrome_screenshot_13%20Feb%202025%2017_52_31%20EET.png)
 
 ### Resource Center Mockup
-![Resource Center Mockup](#)
+![Resource Center Mockup](https://github.com/aimtyaem/EOInfo/blob/ac2963b42c25d13a57d874827f32249cc84dd5a1/chrome_screenshot_13%20Feb%202025%2017_51_57%20EET.png)
 
 ### Community Mockup
 ![Community Mockup](https://github.com/aimtyaem/EOInfo/blob/10959760b8be18be7f683c43a5bdf58b40f90eb8/chrome_screenshot_13%20Feb%202025%2017_49_48%20EET.png)
