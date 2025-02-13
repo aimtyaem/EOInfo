@@ -80,12 +80,12 @@ This project includes the following components:
 
 ## Prototype
 
-The interactive prototype can be found [here](https://aton4st.blogspot.com). It includes detailed mockups and user flows to illustrate the user experience and interactions.
+The interactive prototype can be found [here](https://cfp0.blogspot.com). It includes detailed mockups and user flows to illustrate the user experience and interactions.
 
 ## Mockup Design
 
 ### Homepage Mockup
-![Homepage Mockup](https://github.com/aimtyaem/EOInfo/blob/ea27746647fb4cf297cf11372eb35207329a6180/1739718419%20(1).jpg)
+![Homepage Mockup](https://github.com/aimtyaem/EOInfo/blob/4871c5b7a1382d357cbd3966987cd0fe2303429d/chrome_screenshot_13%20Feb%202025%2017_48_43%20EET.png)
 
 ### Onboarding Flow Mockup
 ![Onboarding Flow Mockup](#)
