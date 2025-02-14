@@ -1,0 +1,10 @@
+Consumption (kWh),Flag
+1500000,unknown
+750000,unknown
+300000,high_usage
+150000,unknown
+75000,medium_usage
+30000,low_usage
+15000,unknown
+5000,unknown
+-500,unknown
