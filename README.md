@@ -6,13 +6,13 @@ The AutoGuided Onboarding webApp aims to address the pressing issue of carbon fo
 ![Auto smallsat network topology](https://github.com/aimtyaem/EOInfo/blob/a71ee89bf3f7443bb7766dca35ce432feffd1bfd/1751033024.jpg)
 
 autoguided-webapp/  
-├── frontend/onboarding.yaml # WebApp 
-│   ├── pages/onboarding.html  
+├── frontend/onboarding.Yaml # output 
+│   ├── pages/onboarding.Html /Dashboard.html #webApp
 │   └── components/Dashboard.json  
-├── backend/             #   
+├── backend/             #DevOps   
 │   ├── routes/Sat_data.ipynb  
 │   └── ml/carbon_model.ipynb  
-├── AutoSmallSat_Datasets/           # SmallSat integration  
+├── AutoSmallSat_Datasets/ # SmallSat integration  
 │   ├── aws_ground_station.ipynb  
 │   └── imagery_processing.ipynb  
 ├── Output  # reports   
