@@ -3,6 +3,7 @@
 ## Background
 
 The CFP AutoGuided Onboarding webApp aims to address the pressing issue of carbon footprint reduction through innovative technology. By leveraging autonomous small satellites (smallsats) for earth observation, this webApp provides users with personalized insights and recommendations to help them reduce their carbon footprint. The goal is to empower individuals and organizations to take actionable steps towards a more sustainable future.
+
 autoguided-webapp/  
 ├── frontend/            # WebApp  
 │   ├── pages/onboarding.html  
