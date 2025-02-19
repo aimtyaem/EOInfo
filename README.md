@@ -5,58 +5,24 @@
 The AutoGuided Onboarding webApp aims to address the pressing issue of carbon footprint reduction through innovative technology. By leveraging autonomous small satellites (smallsats) for earth observation, this webApp provides users with personalized insights and recommendations to help them reduce their carbon footprint. The goal is to empower individuals and organizations to take actionable steps towards a more sustainable future.
 ![Auto smallsat network topology](https://github.com/aimtyaem/EOInfo/blob/a71ee89bf3f7443bb7766dca35ce432feffd1bfd/1751033024.jpg)
 
+
 ## Repository Structure
 
 ```
-Datasets/  (Root directory - Matches the repo name)
-
-├── raw/         # Original, unprocessed data files (often large)
-│   ├── classified_data.csv
-│   ├── classified_data.json
-│   └── ...
-│
-├── processed/   # Data that has been cleaned, transformed, or prepared
-│   ├── classified_data.csv
-│   ├── classified_data.pkl  (Pickle files are common for Python data)
-│   └── ...
-│
-├── intermediate/ # Temporary files created during processing (can be deleted later)
-│   └── temp_data.csv
-│
-├── scripts/      # Code for data processing, analysis, or model training
-│   ├── ExploreSpaceSci.ipynb
-│   ├── RCchatbot.ipynb
-│   └── ...
-│
-├── notebooks/    # Colab Notebooks for exploration and experimentation
-│   ├── ExploreSpaceSci.ipynb
-│   ├── RCchatbot.ipynb
-│   └── CMB_angular_power_spectrum.ipynb
-│
-├── data/         # Smaller, derived datasets used for specific purposes
-│   ├── classified_data.csv
-│   ├── classified_data.csv
-│   └── ...
-│
-├── models/       # Saved machine learning models
-│   ├── AIchatbot.pkl
-│   └── AIchatbot.h5
-│
-├── outputs/      # Results, visualizations, or reports
-│   ├── figures/
-│   │   └── 4177381372.jpg
-│   ├── tables/
-│   │   └── classified_data.csv
-│   └── Aton4ST prototype.pdf
-│
-├── docs/         # Documentation files
-│   ├── README.md
-│   └── CONTRIBUTING.md
-│
-├── requirements.txt # List of Python dependencies
-│
-└── ...           # Other files
+autoguided-webapp/  
+├── frontend/onboarding.Yaml # Output 
+│   ├── pages/onboarding.Html /Dashboard.html # WebApp  
+│   └── components/Dashboard.json  
+├── backend/             # DevOps  
+│   ├── routes/Sat_data.ipynb  
+│   └── ml/carbon_model.ipynb  
+├── AutoSmallSat_Datasets/ # SmallSat integration  
+│   ├── aws_ground_station.ipynb  
+│   └── imagery_processing.ipynb  
+├── Output/  # Reports  
+└── Markdown files/  # User/developer guides  
 ```
+
 ## AutoGuided Structure
 
 This project includes the following components:
