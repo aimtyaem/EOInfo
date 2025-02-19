@@ -7,6 +7,7 @@ The CFP AutoGuided Onboarding webApp aims to address the pressing issue of carbo
 autoguided-webapp/  
 ├── frontend/onboarding.yaml #output 
 │   ├── pages/onboarding.html /Dashboard.html #webApp
+
 │   └── components/Dashboard.json  
 ├── backend/             #   
 │   ├── routes/Sat_data.ipynb  
