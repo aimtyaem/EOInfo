@@ -1,4 +1,4 @@
-# AI Onboarding WebApp for Carbon Footprint Reduction
+# AutoGuided Onboarding WebApp for Carbon Footprint Reduction
 
 ## Background
 
