@@ -1,3 +1,23 @@
-# Set the default behavior, in case people don't have core.autocrlf set.
-# https://help.github.com/articles/dealing-with-line-endings/
-* text=auto
+#!/bin/bash
+set -e
+
+# Update repository from remote
+echo "Fetching latest changes..."
+git pull origin main
+
+# Re-normalize line endings based on .gitattributes rules
+echo "Refreshing data formats..."
+git add --renormalize .
+
+# Clean untracked files (CAUTION: destructive operation)
+echo "Cleaning repository..."
+git clean -fd
+
+# Optional: Commit automatic formatting changes
+# echo "Committing formatting changes..."
+# git commit -m "Auto-format: line ending normalization"
+
+# Optional: Push changes back to remote
+# git push origin main
+
+echo "Repository refresh complete!"
