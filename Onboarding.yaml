@@ -1,0 +1,7 @@
+energy_consumption_history:
+- 1250
+recommendations:
+  action: Switch to LED Lighting
+  annual_savings: $10,000
+  roi: 2 years
+scope2_emissions: 500.0
