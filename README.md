@@ -12,6 +12,9 @@ autoguided-webapp/
 ├── backend/             # Flask API  
 │   ├── routes/data_ingestion.py  
 │   └── ml/carbon_model.py  
+├── satellite/           # SmallSat integration  
+│   ├── aws_ground_station.py  
+│   └── imagery_processing.py  
 ├── docker-compose.yml   # Container setup  
 └── docs/                # User/developer guides  
 
