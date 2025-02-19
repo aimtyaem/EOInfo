@@ -1,10 +1,22 @@
-# AI Onboarding WebApp for Carbon Footprint Reduction
+# AutoGuided Onboarding WebApp for Carbon Footprint Reduction
 
 ## Background
 
-The CFP AI-powered Onboarding webApp aims to address the pressing issue of carbon footprint reduction through innovative technology. By leveraging autonomous small satellites (smallsats) for earth observation, this webApp provides users with personalized insights and recommendations to help them reduce their carbon footprint. The goal is to empower individuals and organizations to take actionable steps towards a more sustainable future.
+The CFP AutoGuided Onboarding webApp aims to address the pressing issue of carbon footprint reduction through innovative technology. By leveraging autonomous small satellites (smallsats) for earth observation, this webApp provides users with personalized insights and recommendations to help them reduce their carbon footprint. The goal is to empower individuals and organizations to take actionable steps towards a more sustainable future.
+autoguided-webapp/  
+├── frontend/            # WebApp  
+│   ├── pages/onboarding.html  
+│   └── components/Dashboard.js  
+├── backend/             #   
+│   ├── routes/Sat_data.ipynb  
+│   └── ml/carbon_model.ipynb  
+├── AutoSmallSat_Datasets/           # SmallSat integration  
+│   ├── aws_ground_station.ipynb  
+│   └── imagery_processing.ipynb  
+├── Output  # reports   
+└── Markdown files/                # User/developer guides  
 
-## Project Structure
+## AutoGuided Onboarding Structure
 
 This project includes the following components:
 1. **Wireframe Design**
