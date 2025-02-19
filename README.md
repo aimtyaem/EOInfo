@@ -8,7 +8,7 @@ The AutoGuided Onboarding webApp aims to address the pressing issue of carbon fo
 autoguided-webapp/  
 ├── frontend/            # WebApp  
 │   ├── pages/onboarding.html  
-│   └── components/Dashboard.js  
+│   └── components/Dashboard.json  
 ├── backend/             #   
 │   ├── routes/Sat_data.ipynb  
 │   └── ml/carbon_model.ipynb  
