@@ -15,8 +15,8 @@ autoguided-webapp/
 ├── AutoSmallSat_Datasets/           # SmallSat integration  
 │   ├── aws_ground_station.ipynb  
 │   └── imagery_processing.ipynb  
-├── Reports   # output   
-└── docs/                # User/developer guides  
+├── Output  # reports   
+└── Markdown files/                # User/developer guides  
 
 ## AutoGuided Structure
 
