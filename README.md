@@ -4,20 +4,23 @@
 
 The AutoGuided Onboarding webApp aims to address the pressing issue of carbon footprint reduction through innovative technology. By leveraging autonomous small satellites (smallsats) for earth observation, this webApp provides users with personalized insights and recommendations to help them reduce their carbon footprint. The goal is to empower individuals and organizations to take actionable steps towards a more sustainable future.
 ![Auto smallsat network topology](https://github.com/aimtyaem/EOInfo/blob/a71ee89bf3f7443bb7766dca35ce432feffd1bfd/1751033024.jpg)
-...
+
+## Repository Structure
+
+```
 autoguided-webapp/  
-├── frontend/onboarding.Yaml # output 
-│   ├── pages/onboarding.Html /Dashboard.html #webApp
-│   └── components/Dashboard.json  
-├── backend/             #DevOps   
-│   ├── routes/Sat_data.ipynb  
-│   └── ml/carbon_model.ipynb  
-├── AutoSmallSat_Datasets/ # SmallSat integration  
-│   ├── aws_ground_station.ipynb  
-│   └── imagery_processing.ipynb  
-├── Output  # reports   
-└── Markdown files/                # User/developer guides  
-...
+├── **frontend/onboarding.Yaml** *# Output*  
+│   ├── **pages/onboarding.Html** /Dashboard.html *# WebApp*  
+│   └── **components/Dashboard.json**  
+├── **backend/**             *# DevOps*  
+│   ├── **routes/Sat_data.ipynb**  
+│   └── **ml/carbon_model.ipynb**  
+├── **AutoSmallSat_Datasets/** *# SmallSat integration*  
+│   ├── **aws_ground_station.ipynb**  
+│   └── **imagery_processing.ipynb**  
+├── **Output/**  *# Reports*  
+└── **Markdown files/**                *# User/developer guides*  
+```
 ## AutoGuided Structure
 
 This project includes the following components:
