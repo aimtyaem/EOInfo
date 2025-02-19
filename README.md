@@ -6,7 +6,7 @@ The AutoGuided Onboarding webApp aims to address the pressing issue of carbon fo
 ![Auto smallsat network topology](https://github.com/aimtyaem/EOInfo/blob/a71ee89bf3f7443bb7766dca35ce432feffd1bfd/1751033024.jpg)
 
 autoguided-webapp/  
-├── frontend/            # WebApp  
+├── frontend/onboarding.yaml # WebApp 
 │   ├── pages/onboarding.html  
 │   └── components/Dashboard.json  
 ├── backend/             #   
