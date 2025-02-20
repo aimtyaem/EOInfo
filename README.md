@@ -142,8 +142,7 @@ To get started with the development of this project, follow the steps below:
 5. Conduct user testing and gather feedback for improvements.
 
 We hope this project inspires and empowers users to contribute to a sustainable future by reducing their carbon footprints with the help of advanced technology.
-## AutoGuided Onboarding WebApp
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NCboNufaOsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[![Watch the video](https://img.youtube.com/vi/NCboNufaOsg/0.jpg)](https://www.youtube.com/watch?v=NCboNufaOsg)
 For more information, please contact aimt16@hotmail.com. 
