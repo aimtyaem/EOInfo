@@ -15,7 +15,8 @@ autoguided-webapp/
 │   └── components/Dashboard.json  
 ├── backend/             # DevOps  
 │   ├── routes/Sat_data.ipynb  
-│   └── ml/carbon_model.ipynb  
+│   └── ml/carbon_model.ipynb
+|   └── H2Ogpt/Onboarding_Dashbiard_AutoChatbot_processes
 ├── AutoSmallSat_Datasets/ # SmallSat integration  
 │   ├── aws_ground_station.ipynb  
 │   └── imagery_processing.ipynb  
