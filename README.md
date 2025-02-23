@@ -7,4 +7,6 @@ The AI Onboarding webApp aims to address the pressing issue of carbon footprint 
 ## Datasets
 1. CSV files. 
 2. Raster Images. 
-3. Manual input. 
+3. Manual input.
+4. Cloud carbon report.
+5. Electricity expenses incurred from grid power.
