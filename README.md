@@ -3,7 +3,7 @@
 ## Background
 
 The AutoGuided Onboarding webApp aims to address the pressing issue of carbon footprint reduction through innovative technology. By leveraging autonomous small satellites (smallsats) for earth observation, this webApp provides users with personalized insights and recommendations to help them reduce their carbon footprint. The goal is to empower individuals and organizations to take actionable steps towards a more sustainable future.
-![Auto smallsat network topology] (https://github.com/aimtyaem/EOInfo/blob/a71ee89bf3f7443bb7766dca35ce432feffd1bfd/1751033024.jpg)
+![Auto smallsat network topology](https://github.com/aimtyaem/EOInfo/blob/a71ee89bf3f7443bb7766dca35ce432feffd1bfd/1751033024.jpg)
 
 
 ## Repository Structure
@@ -100,7 +100,7 @@ This project includes the following components:
 
 ## Prototype
 
-1.Working on turning our prototype into the [MVP!] (https://github.com/aimtyaem/EOInfo/blob/b9f9b99a274edd9a972ba92275929249777fbd43/Turning%20prototype%20into%20MVP.pdf). 
+1.Working on turning our prototype into the [MVP!](https://github.com/aimtyaem/EOInfo/blob/b9f9b99a274edd9a972ba92275929249777fbd43/Turning%20prototype%20into%20MVP.pdf). 
 2.The interactive mockup can be found [here](https://CFP0.blogspot.com). It includes detailed information and user flows to illustrate the user experience and interactions.
 
 ## Mockup Design
