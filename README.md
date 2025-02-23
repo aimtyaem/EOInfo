@@ -100,7 +100,7 @@ This project includes the following components:
 
 ## Prototype
 
-The interactive prototype can be found [here](https://aton4st.blogspot.com). It includes detailed mockups and user flows to illustrate the user experience and interactions.
+The interactive mockup can be found [here](https://CFP0.blogspot.com). It includes detailed information and user flows to illustrate the user experience and interactions.
 
 ## Mockup Design
 
