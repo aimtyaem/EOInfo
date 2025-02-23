@@ -26,7 +26,7 @@ This command installs JupyterLab, which provides a more feature-rich environment
    This command launches JupyterLab (or Jupyter Notebook) in your web browser.
  * In Jupyter Lab (or Notebook), open the coefficients.ipynb file and run all cells.  Once Jupyter is open, you should see the coefficients.ipynb file in the file browser. Open it, and then execute all cells in the notebook to run the code and generate the results.  You can typically run all cells by going to the "Run" menu and selecting "Run All Cells".
 
-##AI DeveOps:
+## AI DeveOps:
 1. AWS ground station.
 2. Carbon model. 
 3. Onboarding dashboard. 
