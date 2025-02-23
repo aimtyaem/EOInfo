@@ -28,7 +28,7 @@ autoguided-webapp/
 
 This project includes the following components:
 1. **Wireframe Design**
-2.![**Prototype**](https://github.com/aimtyaem/EOInfo/blob/08afb04bd43a655a6df00f61d4439ada01c1e1b8/CFP%20prototype%20plan.pdf)
+2. [**Prototype**](https://github.com/aimtyaem/EOInfo/blob/08afb04bd43a655a6df00f61d4439ada01c1e1b8/CFP%20prototype%20plan.pdf)
 3. **Mockup Design**
 
 ## Wireframe Design
