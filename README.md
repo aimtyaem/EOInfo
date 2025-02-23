@@ -101,7 +101,8 @@ This project includes the following components:
 
 ## Prototype
 
-1.Working on turning our prototype into the [MVP!](https://github.com/aimtyaem/EOInfo/blob/b9f9b99a274edd9a972ba92275929249777fbd43/Turning%20prototype%20into%20MVP.pdf). 
+1.Working on turning our prototype into the [MVP!](https://github.com/aimtyaem/EOInfo/blob/b9f9b99a274edd9a972ba92275929249777fbd43/Turning%20prototype%20into%20MVP.pdf).
+
 2.The interactive mockup can be found [here](https://CFP0.blogspot.com). It includes detailed information and user flows to illustrate the user experience and interactions.
 
 ## Mockup Design
