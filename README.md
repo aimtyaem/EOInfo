@@ -115,7 +115,7 @@ This project includes the following components:
 ![Dashboard Mockup](https://github.com/aimtyaem/EOInfo/blob/ac2963b42c25d13a57d874827f32249cc84dd5a1/chrome_screenshot_13%20Feb%202025%2017_50_27%20EET.png)
 
 ### User Profile Mockup
-![User Profile Mockup] (https://github.com/aimtyaem/EOInfo/blob/ac2963b42c25d13a57d874827f32249cc84dd5a1/chrome_screenshot_13%20Feb%202025%2017_51_57%20EET.png)
+![User Profile Mockup](https://github.com/aimtyaem/EOInfo/blob/ac2963b42c25d13a57d874827f32249cc84dd5a1/chrome_screenshot_13%20Feb%202025%2017_51_57%20EET.png)
 
 ### Resource Center Mockup
 ![Resource Center Mockup](https://github.com/aimtyaem/EOInfo/blob/ac2963b42c25d13a57d874827f32249cc84dd5a1/chrome_screenshot_13%20Feb%202025%2017_52_31%20EET.png)
