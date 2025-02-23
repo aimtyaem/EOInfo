@@ -29,7 +29,7 @@ This command installs JupyterLab, which provides a more feature-rich environment
 ## AI DevOps:
 1. AWS ground station.
 2. Carbon model. 
-3. Onboarding dashboard. 
+3. H2OChatbot for Onboarding Flow. 
 4. Image processing. 
 5. Dashboard. 
 
@@ -130,5 +130,3 @@ aws cloudwatch get-metric-data \
 
 I hope these code snippets help you in your AI DevOps journey with AWS services! Let me know if you need more assistance.
 ``` 
-
-This Markdown format organizes the content into sections with clear headings, code blocks, and separators for readability.
