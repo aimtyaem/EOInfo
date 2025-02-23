@@ -85,7 +85,7 @@ The interactive prototype can be found [here](https://aton4st.blogspot.com). It 
 ## Mockup Design
 
 ### Homepage Mockup
-![Homepage Mockup](https://github.com/aimtyaem/EOInfo/blob/ea27746647fb4cf297cf11372eb35207329a6180/1739718419%20(1).jpg)
+![Homepage Mockup](#)
 
 ### Onboarding Flow Mockup
 ![Onboarding Flow Mockup](#)
