@@ -21,7 +21,7 @@ autoguided-webapp/
 │   ├── aws_ground_station.ipynb  
 │   └── imagery_processing.ipynb  
 ├── Output/  # Reports  
-└── Markdown files/  # User/developer guides  
+└── Branches files/  # User/developer guides  
 ```
 
 ## AutoGuided Structure
