@@ -193,6 +193,7 @@ We appreciate your contributions and look forward to collaborating with you!
 
 ### License
 The AGO project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-For more information, please contact aimt16@hotmail.com. 
+
+For more information, checkout my [wiki](https://github.com/aimtyaem/AGO/wiki). 
 
 We hope this project inspires and empowers users to contribute to a sustainable future by reducing their carbon footprints with the help of advanced technology.
