@@ -36,6 +36,7 @@ This project includes the following components:
 7. [**Code of conduct**](#code-of-conduct)
 8. [**Contact**](#contact)
 9. [**License**](#License)
+10. [**Resources**](#resources)
 
 ## Wireframe Design
 
@@ -194,6 +195,7 @@ We appreciate your contributions and look forward to collaborating with you!
 ### License
 The AGO project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-For more information, checkout my [wiki](https://github.com/aimtyaem/AGO/wiki). 
+### Resources:
+For additional information and resources, please visit my [wiki](https://github.com/aimtyaem/AGO/wiki). 
 
 We hope this project inspires and empowers users to contribute to a sustainable future by reducing their carbon footprints with the help of advanced technology.
