@@ -2,7 +2,7 @@
 
 ## Background
 
-The AutoGuided Onboarding webApp aims to address the pressing issue of carbon footprint reduction through innovative technology. By leveraging autonomous small satellites (smallsats) for earth observation, this webApp provides users with personalized insights and recommendations to help them reduce their carbon footprint. The goal is to empower individuals and organizations to take actionable steps towards a more sustainable future.
+The AutoGuided Onboarding webApp (AGO) aims to address the pressing issue of carbon footprint reduction through innovative technology. By leveraging autonomous small satellites (smallsats) for earth observation, this webApp provides users with personalized insights and recommendations to help them reduce their carbon footprint. The goal is to empower individuals and organizations to take actionable steps towards a more sustainable future.
 ![Auto smallsat network topology](https://github.com/aimtyaem/EOInfo/blob/a71ee89bf3f7443bb7766dca35ce432feffd1bfd/1751033024.jpg)
 
 
@@ -146,11 +146,40 @@ To get started with the development of this project, follow the steps below:
 2. Install necessary dependencies.
 3. Follow the wireframe and mockup designs to develop the frontend and backend components.
 4. Integrate AI models and data processing modules.
-5. Conduct user testing and gather feedback for improvements.
+5. Conduct user testing and gather feedback for improvements. 
 
+## Contribution Guidelines:
+
+To ensure a smooth and consistent contribution process, please adhere to the following guidelines:
+
+- **Code contributions:**
+  - Follow the project's coding standards and conventions.
+  - Write clear and concise commit messages that describe the changes made.
+  - Include unit tests for new or modified code.
+- **Documentation updates:**
+  - Use clear and concise language that is easy to understand.
+  - Provide sufficient context and examples to help users understand the concepts being explained.
+  - Follow the project's documentation style guide.
+- **Issue reporting:**
+  - Provide a clear and detailed description of the issue, including steps to reproduce it.
+  - Include any relevant error messages or logs.
+  - Assign the appropriate label to the issue (e.g., "bug," "feature request," etc.).
+- **Feature requests:**
+  - Describe the proposed feature in detail, explaining its purpose and benefits.
+  - Provide any relevant mockups or designs to illustrate the feature.
+  - Discuss the potential impact of the feature on the project's architecture and implementation.
+
+**4. Code of Conduct**
+We expect all contributors to adhere to our code of conduct, which promotes a respectful and inclusive environment. Please refrain from personal attacks, offensive language, or any form of harassment.
+
+**5. Contact**
+If you have any questions or need assistance with contributing, please contact [Project Contact Name] at [Project Contact Email].
+
+We appreciate your contributions and look forward to collaborating with you!
 [![Watch the video](https://img.youtube.com/vi/NCboNufaOsg/0.jpg)](https://www.youtube.com/watch?v=NCboNufaOsg)
+
 ### License
-The "CFP Prototype Plan.pdf" project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The AGO project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 For more information, please contact aimt16@hotmail.com. 
 
 We hope this project inspires and empowers users to contribute to a sustainable future by reducing their carbon footprints with the help of advanced technology.
