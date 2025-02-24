@@ -30,7 +30,12 @@ This project includes the following components:
 1. [**Wireframe Design**](https://github.com/aimtyaem/AGO/blob/b9f9b99a274edd9a972ba92275929249777fbd43/CFPwireframe.md)
 2. [**Prototype**](https://github.com/aimtyaem/EOInfo/blob/08afb04bd43a655a6df00f61d4439ada01c1e1b8/CFP%20prototype%20plan.pdf)
 3. [**Mockup Design**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#mockup-design)
-4. [**Getting started**](https://github.com/aimtyaem/AGO/blob/main/Setup.MD)
+4. [**Development Requirements**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#development-requirements)
+5. [**Getting started**](https://github.com/aimtyaem/AGO/blob/main/Setup.MD)
+6. [**Contribution Guidelines**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#contribution-guidelines)
+7. [**Code of conduct**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#code-of-conduct)
+8. [**Contact**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#contact)
+9. [**Licence**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#licence)
 
 ## Wireframe Design
 
@@ -130,16 +135,24 @@ To contribute to the development of the "CFP Prototype Plan.pdf" project, you wi
 
 - A development environment with the latest version of Python installed.
 - The following Python packages:
+  - OS
   - numpy
   - scipy
   - matplotlib
+  - json
   - pandas
   - scikit-learn
+  - H2Ogpte
+  - torch
+  - transformers
+  - boto3
+  - rasterii
+  - CV2
+  - gradio
   - tensorflow
-  - keras
 - A git client.
 
-## Getting Started: Development installations guidelines 
+## **Getting Started:** Development installations guidelines 
 
 To get started with the development of this project, follow the steps below:
 1. Clone the repository.
@@ -169,10 +182,10 @@ To ensure a smooth and consistent contribution process, please adhere to the fol
   - Provide any relevant mockups or designs to illustrate the feature.
   - Discuss the potential impact of the feature on the project's architecture and implementation.
 
-**4. Code of Conduct**
+### **Code of Conduct**
 We expect all contributors to adhere to our code of conduct, which promotes a respectful and inclusive environment. Please refrain from personal attacks, offensive language, or any form of harassment.
 
-**5. Contact**
+### **Contact**
 If you have any questions or need assistance with contributing, please contact [Project Contact Name] at [Project Contact Email].
 
 We appreciate your contributions and look forward to collaborating with you!
