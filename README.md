@@ -125,18 +125,21 @@ This project includes the following components:
 ### Community Mockup
 ![Community Mockup](https://github.com/aimtyaem/EOInfo/blob/10959760b8be18be7f683c43a5bdf58b40f90eb8/chrome_screenshot_13%20Feb%202025%2017_49_48%20EET.png)
 
-## Team Members
+## Development Requirements
+To contribute to the development of the "CFP Prototype Plan.pdf" project, you will need the following:
 
-- **Project Manager**: Oversees project timelines, coordinates tasks, ensures communication, manages resources.
-- **Frontend Developer**: Designs user interface, implements interactive elements, ensures responsive design.
-- **Backend Developer**: Manages server-side logic, databases, API integration, ensures security.
-- **AI Specialist**: Develops machine learning models, trains AI systems, integrates AI with the web app.
-- **Data Scientist**: Collects and processes data, performs data analysis, ensures data accuracy.
-- **UX/UI Designer**: Designs user-friendly interfaces, creates visual designs, conducts user testing.
-- **Sustainability Expert**: Provides sustainability insights, suggests carbon reduction strategies, validates data.
-- **Marketing Specialist**: Promotes the web app, engages with users, gathers feedback, manages social media.
+- A development environment with the latest version of Python installed.
+- The following Python packages:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - keras
+- A git client.
 
-## Getting Started
+## Getting Started: Development installations guidelines 
 
 To get started with the development of this project, follow the steps below:
 1. Clone the repository.
@@ -145,8 +148,9 @@ To get started with the development of this project, follow the steps below:
 4. Integrate AI models and data processing modules.
 5. Conduct user testing and gather feedback for improvements.
 
-We hope this project inspires and empowers users to contribute to a sustainable future by reducing their carbon footprints with the help of advanced technology.
-
-
 [![Watch the video](https://img.youtube.com/vi/NCboNufaOsg/0.jpg)](https://www.youtube.com/watch?v=NCboNufaOsg)
+### License
+The "CFP Prototype Plan.pdf" project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 For more information, please contact aimt16@hotmail.com. 
+
+We hope this project inspires and empowers users to contribute to a sustainable future by reducing their carbon footprints with the help of advanced technology.
