@@ -27,14 +27,14 @@ autoguided-webapp/
 ## AutoGuided Structure
 
 This project includes the following components:
-1. [**Wireframe Design**](https://github.com/aimtyaem/AGO/blob/b9f9b99a274edd9a972ba92275929249777fbd43/CFPwireframe.md)
-2. [**Prototype**](https://github.com/aimtyaem/EOInfo/blob/08afb04bd43a655a6df00f61d4439ada01c1e1b8/CFP%20prototype%20plan.pdf)
-3. [**Mockup Design**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#mockup-design)
+1. [**Wireframe Design**](#wireframe-design)
+2. [**Prototype**](#prototype)
+3. [**Mockup Design**](#mockup-design)
 4. [**Development Requirements**](#development-requirements)
-5. [**Getting started**](https://github.com/aimtyaem/AGO/blob/main/Setup.MD)
+5. [**Getting started**](#getting-started:)
 6. [**Contribution Guidelines**](#contribution-guidelines)
 7. [**Code of conduct**](#code-of-conduct)
-8. [**Contact**](https://github.com/aimtyaem/AGO/blob/CFP/Contact.md)
+8. [**Contact**](#contact)
 9. [**License**](#License)
 
 ## Wireframe Design
@@ -154,7 +154,7 @@ To contribute to the development of the "CFP Prototype Plan.pdf" project, you wi
 
 ## **Getting Started:** Development installations guidelines 
 
-To get started with the development of this project, follow the steps below:
+[To get started](https://github.com/aimtyaem/AGO/blob/main/Setup.MD) with the development of this project, follow the steps below:
 1. Clone the repository.
 2. Install necessary dependencies.
 3. Follow the wireframe and mockup designs to develop the frontend and backend components.
@@ -186,7 +186,7 @@ To ensure a smooth and consistent contribution process, please adhere to the fol
 We expect all contributors to adhere to our code of conduct, which promotes a respectful and inclusive environment. Please refrain from personal attacks, offensive language, or any form of harassment.
 
 ### **Contact**
-If you have any questions or need assistance with contributing, please contact Ahmed Ibrahim Metawee at aimt16@hotmail.com.
+If you have any questions or need assistance with contributing, please contact [Ahmed Ibrahim Metawee](https://github.com/aimtyaem/AGO/blob/CFP/Contact.md) at aimt16@hotmail.com.
 
 We appreciate your contributions and look forward to collaborating with you!
 [![Watch the video](https://img.youtube.com/vi/NCboNufaOsg/0.jpg)](https://www.youtube.com/watch?v=NCboNufaOsg)
