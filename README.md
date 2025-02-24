@@ -35,7 +35,7 @@ This project includes the following components:
 6. [**Contribution Guidelines**](#contribution-guidelines)
 7. [**Code of conduct**](#code-of-conduct)
 8. [**Contact**](https://github.com/aimtyaem/AGO/blob/CFP/Contact.md)
-9. [**Licence**](#licence)
+9. [**License**](#License)
 
 ## Wireframe Design
 
