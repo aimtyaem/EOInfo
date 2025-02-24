@@ -24,7 +24,7 @@ autoguided-webapp/
 └── Branches files/  # User/developer guides  
 ```
 
-## AutoGuided Structure
+## Readme content
 
 This project includes the following components:
 1. [**Wireframe Design**](#wireframe-design)
