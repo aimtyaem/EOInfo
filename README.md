@@ -31,7 +31,7 @@ This project includes the following components:
 2. [**Prototype**](#prototype)
 3. [**Mockup Design**](#mockup-design)
 4. [**Development Requirements**](#development-requirements)
-5. [**Getting started**](#getting-started:)
+5. [**Getting started**](#getting-started:-development-installations-guidelines)
 6. [**Contribution Guidelines**](#contribution-guidelines)
 7. [**Code of conduct**](#code-of-conduct)
 8. [**Contact**](#contact)
