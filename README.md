@@ -131,7 +131,7 @@ This project includes the following components:
 ![Community Mockup](https://github.com/aimtyaem/EOInfo/blob/10959760b8be18be7f683c43a5bdf58b40f90eb8/chrome_screenshot_13%20Feb%202025%2017_49_48%20EET.png)
 
 ## Development Requirements
-To contribute to the development of the "CFP Prototype Plan.pdf" project, you will need the following:
+To contribute to the development of the "CFP WebAppDevOps" project, you will need the following:
 
 - A development environment with the latest version of Python installed.
 - The following Python packages:
