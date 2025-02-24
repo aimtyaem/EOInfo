@@ -30,12 +30,12 @@ This project includes the following components:
 1. [**Wireframe Design**](https://github.com/aimtyaem/AGO/blob/b9f9b99a274edd9a972ba92275929249777fbd43/CFPwireframe.md)
 2. [**Prototype**](https://github.com/aimtyaem/EOInfo/blob/08afb04bd43a655a6df00f61d4439ada01c1e1b8/CFP%20prototype%20plan.pdf)
 3. [**Mockup Design**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#mockup-design)
-4. [**Development Requirements**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#development-requirements)
+4. [**Development Requirements**](#development-requirements)
 5. [**Getting started**](https://github.com/aimtyaem/AGO/blob/main/Setup.MD)
-6. [**Contribution Guidelines**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#contribution-guidelines)
-7. [**Code of conduct**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#code-of-conduct)
-8. [**Contact**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#contact)
-9. [**Licence**](https://github.com/aimtyaem/AGO/blob/74d35465edc166cfb2dbcbe356e0626d3de97e5b/README.md#licence)
+6. [**Contribution Guidelines**](#contribution-guidelines)
+7. [**Code of conduct**](#code-of-conduct)
+8. [**Contact**](https://github.com/aimtyaem/AGO/blob/CFP/Contact.md)
+9. [**Licence**](#licence)
 
 ## Wireframe Design
 
