@@ -6,8 +6,9 @@ The CFP AutoGuided Onboarding webApp aims to address the pressing issue of carbo
 
 
 ## Images 
-° JPG: Joint Photographic Experts Group
-° PNG: Portable Network Graphics
+* JPG: Joint Photographic Experts Group
+
+* PNG: Portable Network Graphics
 
 
 ## Wireframe Design (From sketching to Wireframe) 
